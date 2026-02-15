@@ -1,7 +1,5 @@
 # 🛡️ Sentinel: Behavioral Biometrics & Fraud Detection System
 
-**Domain:** Fintech / Cybersecurity  
-**Role:** Data Analyst & Engineer  
 **Tech Stack:** Python, SQL (SQLite), Scikit-Learn (Isolation Forest), Pandas, Excel
 
 <img width="1540" height="659" alt="Screenshot 2026-02-15 155554" src="https://github.com/user-attachments/assets/e83bb4bb-a2c2-4ed9-93fd-15406941bccc" />
