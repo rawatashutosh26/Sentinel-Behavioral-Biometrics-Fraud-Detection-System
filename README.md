@@ -52,7 +52,7 @@ To run this project locally:
 
 1. **Clone the repo:**
    ```console
-   git clone [https://github.com/YOUR_USERNAME/Sentinel_Project.git](https://github.com/YOUR_USERNAME/Sentinel_Project.git)
+   git clone [https://github.com/rawatashutosh26/Sentinel-Behavioral-Biometrics-Fraud-Detection-System.git]
    ```
 2. **Install Dependencies:**
 
